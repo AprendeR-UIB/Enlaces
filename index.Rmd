@@ -21,3 +21,4 @@ Presentamos una serie de enlaces de nuestros manuales de analisis de datos, que 
 * [Bioestadística medicina.](https://aprender-uib.github.io/INREMDN/)
 * [Bioestadística biología.](https://aprender-uib.github.io/MatesII/)
 * [Análisis de Datos.](https://aprender-uib.github.io/AD/)
+* [Laboratorio análisis de datos](https://ricuib.github.io/ApLabAD/) en construcción.
