@@ -2,10 +2,11 @@
 title: "Enlaces manuales para el  analisis de datos"
 author: ""
 date: "`r Sys.Date()`"
-output: 
-  html_document: 
-    number_sections: true
-    keep_md: true
+output:
+  revealjs::revealjs_presentation:
+    theme: sky
+    highlight: pygments
+    center: true
 ---
 
 ```{r setup, include=FALSE}
